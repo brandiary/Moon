@@ -37,9 +37,9 @@ disqus_shortname:   brandiary
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
+email:              dev@brandiary.io
+#twitter:            username
+facebook:           Brandiary-1660127964088151
 github-url:         brandiary
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
