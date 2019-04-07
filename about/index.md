@@ -2,23 +2,18 @@
 layout: page
 title: About the Brandiary
 tags: [about, Jekyll, theme, moon]
-date: 2019-03-22
+date: 2019-04-07
 comments: false
 ---
     
-<center><a href="https://brandiary.github.io"><b>Brandiary</b></a> create a world a world that can awake people's possibilities.</center>
+<center><a href="https://brandiary.github.io"><b>Brandiary</b></a> create a world that can awake people's possibilities.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Service Features
+* express oneself easily
+* Identify many different brands
+* Favorites of Interested Brands
+* Bookmark of Interest
+* Quantification of the brand (To be added)
 
 ## Preview
 
@@ -32,6 +27,7 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 
 ## Getting Started
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+We are preparing to provide good services.
+The service will be available in 2020.
+
+[Install Brandiary App.](https://brandiary.github.io){: .btn .disable}
