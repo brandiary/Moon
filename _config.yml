@@ -5,7 +5,7 @@ description:        "We create a world a world that can awake people's possibili
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         https://trello-attachments.s3.amazonaws.com/5c39d06b8ec77d59e90fe894/5caff86e72abdc2b312c5b05/468f933d89b9bbd63a0e10c048180763/watercolour-4114529_1920.jpg
+background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://brandiary.github.io
