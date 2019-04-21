@@ -1,12 +1,14 @@
 ---
 layout: page
 title: About the Brandiary
-tags: [about, Jekyll, theme, moon]
-date: 2019-04-07
-comments: false
+tags: [brandiary, about, personnel branding, branding]
+date: 2019-04-21
+comments: true
 ---
-    
-<center><a href="https://brandiary.github.io"><b>Brandiary</b></a> create a world that can awake people's possibilities.</center>
+ 
+## Our Mission
+
+<center><b>Brandiary</b> creates the world that can awake people's possibilities.</center>
 
 ## Service Features
 * express oneself easily
@@ -18,16 +20,17 @@ comments: false
 ## Preview
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    https://trello-attachments.s3.amazonaws.com/5c39d06b8ec77d59e90fe894/5c973dbacfa213637f6d318a/cfd48197cc74f7b6a3aa6906e6288ba6/1.jpg
+    https://trello-attachments.s3.amazonaws.com/5c39d06b8ec77d59e90fe894/5c973dbacfa213637f6d318a/64a9f61be7c12e468447d795c82e5677/3.jpg
+    https://trello-attachments.s3.amazonaws.com/5c39d06b8ec77d59e90fe894/5c973dbacfa213637f6d318a/0747c27cd8022c0b11da9f0efb745766/4.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Screenshots of Brandiary App" cols=3 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+Get the latest news from Brandiary on [Instagram.](https://www.instagram.com/brandiary_official/)
 
 ## Getting Started
 
 We are preparing to provide good services.
 The service will be available in 2020.
 
-[Install Brandiary App.](https://brandiary.github.io){: .btn .disable #install-btn}
+<!-- [Install Brandiary App.](https://brandiary.github.io){: .btn #install-btn} -->
