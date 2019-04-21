@@ -30,4 +30,4 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 We are preparing to provide good services.
 The service will be available in 2020.
 
-[Install Brandiary App.](https://brandiary.github.io){: .btn .disable}
+[Install Brandiary App.](https://brandiary.github.io){: .btn .disable #install-btn}
