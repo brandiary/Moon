@@ -17,6 +17,7 @@ comments: true
 * Bookmark of Interest
 * Quantification of the brand (To be added)
 
+<!--
 ## Preview
 
 {% capture images %}
@@ -25,6 +26,7 @@ comments: true
     https://trello-attachments.s3.amazonaws.com/5c39d06b8ec77d59e90fe894/5c973dbacfa213637f6d318a/0747c27cd8022c0b11da9f0efb745766/4.jpg
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Brandiary App" cols=3 %}
+-->
 
 Get the latest news from Brandiary on [Instagram.](https://www.instagram.com/brandiary_official/)
 
